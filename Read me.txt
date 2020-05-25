@@ -1,4 +1,4 @@
 This web template made by bootstrap frame work.
-this web template done for educational purpose only and for comertial purpose.
+this web template done for educational purpose only and for not comertial purpose.
 visit https://getbootstrap.com/ for more.
 thank you
